@@ -6,7 +6,7 @@
 	"Video nuevo cada semana",
 	"C mamó",
 	"@jares_we",
-	"Wassily team"",
+	"Wassily team",
 	"Viva Cuba carajo",
 	"hacemos vlog de cualquier cosa",
 	"hacemos esto por diversión"
